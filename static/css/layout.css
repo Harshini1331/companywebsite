@@ -21,11 +21,11 @@ body{
     height: 250px;
     text-align: center;
     font-size: xx-large;
-    background-image : url("/static/img/chip1.jpg");
+    background-image : url("/static/img/b2.jpg");
     background-size:cover;
     margin: 0px 0px 0px 0px;
     padding-top: 150px;
-    color: #2D1A5E;
+    color: whitesmoke;
 }
 
 .menu{
@@ -127,5 +127,8 @@ body{
     text-align: center;
     padding-top: 10px;
     margin: 0px 0px 0px 0px;
-    color: rgb(218, 214, 214);
+    color: whitesmoke;
 }
+
+
+
