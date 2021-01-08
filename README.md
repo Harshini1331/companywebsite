@@ -273,13 +273,13 @@ Publish the website in the given URL.
 ![output](./static/img/out4.jpg)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/out5 (2).jpg)
+![output](./static/img/out5.jpg)
 
-![output](./static/img/out6 (2).jpg)
+![output](./static/img/out6.jpg)
 
-![output](./static/img/out7 (2).jpg)
+![output](./static/img/out7.jpg)
 
-![output](./static/img/out8 (2).jpg)
+![output](./static/img/out8.jpg)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://harshini.student.saveetha.in:8000/. HTML code is validated.
